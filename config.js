@@ -23,13 +23,14 @@ global.owner = [
   ['5214531173598'],
   ['5217441745001'],
   ['5214531106422'],
-  ['595986674310']
+  ['595986674310'],
+  ['16056093729']
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'] 
+global.prems = ['16056093729'] 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -39,11 +40,11 @@ global.prems = ['528451003894']
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = en //Idioma de GataBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.openai_key = 'sk-...OzYy'
+global.openai_key = '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'
 /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
 
 global.openai_org_id = 'HITjoN7H8pCwoncEB9e3fSyW'
